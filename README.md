@@ -25,6 +25,8 @@ PLAYER 2 :
  - Arrow right - move right
  - Right CTRL - bomb plant
 
+GENERAL CONTROLS:
+
 - R - reset after match ended
 ---------------------------------------------------------------------------------
 Please, notify me about any bugs and crashes.
