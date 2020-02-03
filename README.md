@@ -12,19 +12,19 @@ ATTENTION!
 CONTROLS :
 
 PLAYER 1 :
-W - move up
-A - move down
-S - move left
-D - move right
-Left CTRL - bomb plant
+ - W - move up
+ - A - move down
+ - S - move left
+ - D - move right
+ - Left CTRL - bomb plant
 
 PLAYER 2 :
-Arrow up - move up
-Arrow down - move down
-Arrow left - move left
-Arrow right - move right
-Right CTRL - bomb plant
+ - Arrow up - move up
+ - Arrow down - move down
+ - Arrow left - move left
+ - Arrow right - move right
+ - Right CTRL - bomb plant
 
-R - reset after match ended
+- R - reset after match ended
 ---------------------------------------------------------------------------------
 Please, notify me about any bugs and crashes.
